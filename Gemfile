@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'bootstrap', '~> 4.0.0alpha3.1'
+gem 'react-rails'
